@@ -15,12 +15,12 @@
 <br />
 <br />
 
-<h3 align="center">Programadora y estudiante con sólida base en metodologías agiles como scrum, experinecia en varios lenguajes de programacion de fron-end y base de datos   .</h3>
+<h3 align="center">Programmer and student with a solid foundation in agile methodologies such as Scrum, experience in various front-end programming languages, and databases.</h3>
 
 <br />
 <br />
 
-- 🌱 I’m currently Reforzando algunos lenguajes, HTML, CSS, JS.
+- 🌱 Actualmente estoy reforzando algunos lenguajes, HTML, CSS, JS.
 
 - 👯 Tengo un Tecnologo en Analisi y Desarrollo de Sisitemas de Información.
 
@@ -28,7 +28,7 @@
   
 - 👨‍💻 Sólida base en metodologías agiles como scrum.
 
-- 📫 How to reach me **danielariascosmunooz@gmail.com**
+- 📫 Correo electronico **danielariascosmunooz@gmail.com**
 <br />
 <br />
 
