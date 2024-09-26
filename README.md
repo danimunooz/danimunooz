@@ -8,9 +8,6 @@
   <a href="https://Discordapp/users/753079523498655785" target="_blank">
   <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white />
   </a>
-  <a href="https://danielariascosmunooz@gmail.com  " target="_blank">
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-  </a>
 </div>
 <br />
 <br />
@@ -22,11 +19,11 @@
 
 - 🌱 Actualmente estoy reforzando algunos lenguajes, HTML, CSS, JS.
 
-- 👯 Tengo un Tecnologo en Analisi y Desarrollo de Sisitemas de Información.
+- 👯 Tengo un Tecnólogo en Análisi y Desarrollo de Sistemas de Información.
 
-- 🛠️ Actualmente estoy estudiando un Tecnico en Asistente de Software
+- 🛠️ Actualmente estoy estudiando un Técnico en Asistente de Software
   
-- 👨‍💻 Sólida base en metodologías agiles como scrum.
+- 👨‍💻 Sólida base en metodologías ágiles como scrum.
 
 - 📫 Correo electronico **danielariascosmunooz@gmail.com**
 <br />
