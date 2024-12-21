@@ -19,9 +19,11 @@
 
 - 🌱 Actualmente estoy reforzando algunos lenguajes, HTML, CSS, JS.
 
-- 👯 Tengo un Tecnólogo en Análisi y Desarrollo de Sistemas de Información.
+- 👯 Tecnólogo en Análisi y Desarrollo de Sistemas de Información.
+  
+- 👯 Técnico en Asistente de software.
 
-- 🛠️ Actualmente estoy estudiando un Técnico en Asistente de Software
+- 🛠️ Actualmente estoy estudiando un Técnico en Asistente de Software.
   
 - 👨‍💻 Sólida base en metodologías ágiles como scrum.
 
@@ -34,7 +36,7 @@
 <br />
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,figma,git,github,gitlab,mysql,mongodb&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,figma,git,github,gitlab,mysql,react,nodejs,mongodb&perline=5" />
   </a>
 </p>
 <br>
