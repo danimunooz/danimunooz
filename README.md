@@ -1,42 +1,45 @@
-<h1 align="center" >Hi 👋, I'm Daniela Riascos Muñoz</h1>
+<h1 align="center">¡Hi! , I'm Daniela Riascos Muñoz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniera+de+Software;Tecnólogo+en+análisis+y+desarrollo;Técnico+en+asistente+de+software;Bootcamp+desarrollo+web+full+stack;"></a>
+</p>
 <br>
-<div align="center">
-  <a href="https://linkedin.com/in/daniela-riascos-muñoz" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://Discordapp/users/753079523498655785" target="_blank">
-  <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white />
-  </a>
-</div>
-<br />
-<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/daniela-riascos-mu%C3%B1oz/" target="blank"><img align="center" src="https://img.shields.io/badge/Daniela Riascos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:danielariascosmunooz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/danielariascosmunooz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/danimunooz" target="blank"><img align="center" src="https://img.shields.io/badge/danimunooz-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<h3 align="center">Programmer and student with a solid foundation in agile methodologies such as Scrum, experience in various front-end programming languages, and databases.</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<br />
-<br />
 
-- 🌱 Actualmente estoy reforzando algunos lenguajes, HTML, CSS, JS.
+<br><br>
+<p>Soy una persona creativa, proactiva y adaptable, apasionada por transformar necesidades en soluciones digitales eficientes. Mi enfoque principal es el desarrollo de interfaces dinámicas y modernas, priorizando siempre la experiencia del usuario y la optimización de procesos.</p>
+<br>
 
-- 👯 Tecnólogo en Análisi y Desarrollo de Sistemas de Información.
-  
-- 👯 Técnico en Asistente de software.
+- 🏫: Actualmente cursando estudios superiores en tecnología para fortalecer mis bases teóricas y prácticas. <br>
+- 🔭: Explorando y dominando nuevos lenguajes de programación y frameworks para ampliar mi stack técnico.
+- 🌱:Desarrollando proyectos a pequeña escala enfocados en crear soluciones web eficientes y funcionales. 🧠💻🤖
+- 🤔: Apasionada por el desarrollo de interfaces de usuario modernas, dinámicas y fáciles de usar. 😅
+- 🤝: Persona creativa, proactiva y adaptable; disfruto trabajar en equipo. 📊📈🤖🧠
+- 😄  Busco innovar y aportar valor real en cada línea de código, enfocándome siempre en la mejora continua.
 
-- 🛠️ Actualmente estoy estudiando un Técnico en Asistente de Software.
-  
-- 👨‍💻 Sólida base en metodologías ágiles como scrum.
-
-- 📫 Correo electronico **danielariascosmunooz@gmail.com**
-<br />
-<br />
-
+<Br>
 <!-- Lenguajes -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> MIS HABILIDADES</b>
-<br />
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,figma,git,github,gitlab,mysql,react,nodejs,mongodb&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figmaline=5" />
+  </a>
+  
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,vuejs,react,nodejs,angulaline=5" />
+  </a>
+  
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gitkraken=5" />
   </a>
 </p>
 <br>
